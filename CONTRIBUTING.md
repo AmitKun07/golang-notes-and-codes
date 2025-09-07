@@ -24,3 +24,24 @@ There are many ways you can help grow this project:
 2. **Clone your fork**  
    ```bash
    git clone https://github.com/YOUR-USERNAME/golang-notes-and-codes.git
+3. **Create a branch**
+   ```bash
+   git checkout -b feature/my-awesome-change
+4. **Make changes (follow the folder structure).**
+5. **Commit with a clear message**
+   ```bash
+   git commit -m "docs: add examples for channels"
+6. **Push and open a Pull Request (PR) to the main repo 🚀.**
+
+   
+---
+
+### ✅ Guidelines 
+```markdown
+## ✅ Guidelines
+- Keep notes **concise & beginner-friendly**.  
+- Always provide **working code** or clearly mark code as illustrative.  
+- Follow existing **file/folder structure and naming conventions**.  
+- Keep PRs **focused and small** — one logical change per PR.  
+- Use **clear commit messages** and explain your changes in the PR description.  
+- Be **respectful and constructive** in reviews 🙌.  
